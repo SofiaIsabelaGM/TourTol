@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Bienvenido a TourTol
 
-You can use the [editor on GitHub](https://github.com/SofiaIsabelaGM/TourTol/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Puedes usar la herramienta de [creador de itinerarios](https://github.com/SofiaIsabelaGM/TourTol/edit/main/README.md) para empezar a planear tu viaje
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cada vez que cumplas una parte de itinerario, TolTour [Points](https://jekyllrb.com/) para ganar puntos de status que te dejaran acceder a descuentos y ofertas especiales. 
+
+##Crea tu cuenta
+
+Crea tu propia cuenta de TourTol para acceder a las recompensas de _ToulTour Points_ para ganar descuentos y oportunidades unicas mientras apoyas a la comunidad local.
+
+[Crea tu cuenta]()
+
 
 ### Markdown
 
