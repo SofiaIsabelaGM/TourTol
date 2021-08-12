@@ -4,9 +4,18 @@ Puedes usar la herramienta de [creador de itinerarios](https://github.com/SofiaI
 
 Cada vez que cumplas una parte de itinerario, TolTour [Points](https://jekyllrb.com/) para ganar puntos de status que te dejaran acceder a descuentos y ofertas especiales. 
 
-##Crea tu cuenta
+## Crea tu cuenta
 
 Crea tu propia cuenta de TourTol para acceder a las recompensas de _ToulTour Points_ para ganar descuentos y oportunidades unicas mientras apoyas a la comunidad local.
+
+## Información
+
+Bienvenido a la sección de información en tiempo real para consulta turistica.
+Utiliza los filtros de esta sección para noticias mas especificas en tu area de interes, ejemplo: 
+
+Tipo : Gastronomico
+Fecha: 18/08/2021
+
 
 [Crea tu cuenta]()
 
